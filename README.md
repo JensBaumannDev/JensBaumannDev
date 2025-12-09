@@ -10,7 +10,18 @@
 
 ###
 
-<p align="left">✨ Quereinsteiger mit Leidenschaft<br>📚 Aktuell in der Lernphase<br>🎯 Ziele: Eine Jugendleidenschaft zum Beruf machen</p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/jens-baumann-7a6866315/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@jensbaumann_music" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+</div>
+
+###
+
+<p align="left">✨ Quereinsteiger mit Leidenschaft<br>📚 Aktuell in der Lernphase<br>🎯 Ziele: Eine Jugendleidenschaft zum Beruf machen.<br><br>Außerdem bin ich leidenschaftlicher Musiker.</p>
 
 ###
 
@@ -24,17 +35,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/jens-baumann-7a6866315/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@jensbaumann_music" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
 </div>
 
 ###
