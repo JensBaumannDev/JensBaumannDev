@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Quereinsteiger mit Leidenschaft zum programmieren<br>📚 Aktuell in der Lernphase<br>🎯 Ziele: Einen Fuss in die IT Welt bekommen<br><br>Außerdem bin ich Musiker.</p>
+<p align="left">✨ Quereinsteiger mit Leidenschaft zum programmieren<br>📚 Aktuell in der Lernphase<br>🎯 Ziele: Einen Fuss in die IT Welt bekommen<br></p>
 
 ###
 
