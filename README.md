@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Quereinsteiger mit Leidenschaft<br>📚 Aktuell in der Lernphase<br>🎯 Ziele: Eine Jugendleidenschaft zum Beruf machen.<br><br>Außerdem bin ich leidenschaftlicher Musiker.</p>
+<p align="left">✨ Quereinsteiger mit Leidenschaft zum programmieren<br>📚 Aktuell in der Lernphase<br>🎯 Ziele: Eine Jugendleidenschaft zum Beruf machen.<br><br>Außerdem bin ich leidenschaftlicher Musiker.</p>
 
 ###
 
