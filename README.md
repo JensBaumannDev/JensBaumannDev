@@ -35,7 +35,7 @@ I love solving problems logically and building modern, user-friendly web applica
 An agile, collaborative project management application inspired by Kanban boards.
 * **Technologies:** Angular (using Signals), TypeScript, Supabase, SCSS
 * **Features:** User authentication and login, interactive Kanban board with drag-and-drop, detailed task management, contact directory, and a summary dashboard.
-* **Live Demo:** [jensbaumandev.github.io/join](https://jensbaumandev.github.io/join/)
+* **Live Demo:** [https://github.com/JensBaumannDev/Join](https://github.com/JensBaumannDev/Join)
 
 ---
 
