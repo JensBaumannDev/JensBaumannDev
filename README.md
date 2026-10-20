@@ -1,13 +1,10 @@
-
 <div align="center">
 
-# Jens Baumann
+# Hi, I'm Jens 👋
 
-### Fullstack Developer · Python · Django · Angular · TypeScript
+### Fullstack Developer | Python | Django | Angular | TypeScript
 
-Building clean REST APIs and responsive web applications – from the database to the user interface.
-
-📍 Emden, Germany · Open to roles in East Frisia or remote · **Available from November 2026**
+📍 Emden, Germany | Open to roles in East Frisia or remote | **Available from November 2026**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jensbaumann.com-2E3EDF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jensbaumann.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jens%20Baumann-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jens-baumann-7a6866315/)
@@ -19,15 +16,19 @@ Building clean REST APIs and responsive web applications – from the database t
 
 ## About Me
 
-I moved into software development from retail and sales – because I realised that building things interests me more than selling them. I am currently completing a one-year **Fullstack Developer training at the Developer Akademie** and spend my evenings on my own projects.
+I spent years in retail and sales before I noticed that I enjoy building things a lot more than selling them. So I made the switch. Right now I'm finishing a one-year Fullstack Developer training at the Developer Akademie, and most evenings you'll find me working on my own projects.
 
-What drives me is digging into a topic until I truly understand *why* something works. Structure matters to me – in code as much as in everyday life: meaningful names, a clear folder structure and functions that do exactly one thing.
+I like to dig into a topic until I really understand why something works, not just that it works. I'm also a bit obsessed with structure. If something isn't sorted properly, I can't leave it alone, and in code that turns out to be pretty useful: clear names, a tidy folder structure and functions that do exactly one thing.
 
-- 🛠️ **Backend:** REST APIs with Python, Django and Django REST Framework – auth, background jobs, Docker
-- 🎨 **Frontend:** responsive applications with Angular, TypeScript and SCSS
-- ✅ **Quality:** test-driven development, clean code, PEP-8, readable documentation
-- 🤖 **AI in my workflow:** I use AI tools deliberately for research, debugging and refactoring – and verify every suggestion against the documentation and in code
-- 📚 **Currently learning:** API integrations and AI-assisted processing of video content
+What I work with:
+
+- **Backend:** REST APIs with Python, Django and Django REST Framework, including authentication, background jobs and Docker
+- **Frontend:** responsive apps with Angular, TypeScript and SCSS
+- **How I work:** test-driven, clean code, documentation that actually helps the next person
+- **AI:** I use AI tools for research, debugging and refactoring, but I check every suggestion against the docs and test it in code before it goes anywhere
+- **Learning right now:** API integrations and AI-assisted processing of video content
+
+When I'm not coding, I make music, play strategy games, spend time with my family and go for walks with our dog Balu.
 
 ---
 
@@ -66,64 +67,59 @@ What drives me is digging into a topic until I truly understand *why* something 
 
 ---
 
-## Featured Projects
+## Projects I'm Proud Of
 
-### 🎬 [Videoflix](https://github.com/JensBaumannDev/Videoflix) – Video Streaming Backend
-A Netflix-style streaming platform: REST API with JWT in HttpOnly cookies, activation and password reset emails, automatic thumbnail creation and **HLS conversion in 480p / 720p / 1080p** with FFmpeg in background jobs, Redis caching and a fully Dockerised setup. Built test-first with 100 % test coverage.
+### 🎬 [Videoflix](https://github.com/JensBaumannDev/Videoflix) - Video Streaming Backend
+My biggest backend project so far: a Netflix-style streaming platform. Users register, activate their account by email and log in with JWT stored in HttpOnly cookies. When I upload a video, the backend creates a thumbnail and converts it to HLS in 480p, 720p and 1080p with FFmpeg in the background. The video list is cached in Redis and everything runs in Docker. I built it test-first and ended up with 100 % test coverage.
 
 `Python` `Django REST` `PostgreSQL` `Redis` `Django RQ` `FFmpeg` `Docker`
-&nbsp;·&nbsp; [**Live Demo**](https://videoflix.jensbaumann.com/) · [Code](https://github.com/JensBaumannDev/Videoflix)
 
-### 🛒 [Coderr](https://github.com/JensBaumannDev/Coderr_Backend) – Freelancer Marketplace API
-A Django backend for digital services with customer and business profiles, offers with packages, orders and reviews.
+[**Live Demo**](https://videoflix.jensbaumann.com/) | [Code](https://github.com/JensBaumannDev/Videoflix)
+
+### 🛒 [Coderr](https://github.com/JensBaumannDev/Coderr_Backend) - Freelancer Marketplace API
+A Django backend for a marketplace of digital services, with customer and business profiles, offers with different packages, orders and reviews.
 
 `Python` `Django REST` `SQLite`
-&nbsp;·&nbsp; [**Live Demo**](https://coderr.jensbaumann.com/) · [Code](https://github.com/JensBaumannDev/Coderr_Backend)
 
-### 📋 [KanMind](https://github.com/JensBaumannDev/KanMind_Backend) – Kanban Board API
+[**Live Demo**](https://coderr.jensbaumann.com/) | [Code](https://github.com/JensBaumannDev/Coderr_Backend)
+
+### 📋 [KanMind](https://github.com/JensBaumannDev/KanMind_Backend) - Kanban Board API
 A Django backend for Kanban boards with tasks, assignments, comments and reviews.
 
 `Python` `Django REST` `SQLite`
-&nbsp;·&nbsp; [**Live Demo**](https://kanmind.jensbaumann.com/) · [Code](https://github.com/JensBaumannDev/KanMind_Backend)
 
-### 💬 [DABubble](https://github.com/JensBaumannDev/DABubble) – Real-Time Team Chat *(team of 2)*
-A Slack-like team chat with channels, direct messages and threads in real time.
+[**Live Demo**](https://kanmind.jensbaumann.com/) | [Code](https://github.com/JensBaumannDev/KanMind_Backend)
 
-`Angular` `TypeScript` `SCSS` `Supabase`
-&nbsp;·&nbsp; [**Live Demo**](https://dabubble.jensbaumann.com/) · [Code](https://github.com/JensBaumannDev/DABubble)
-
-### ✅ [Join](https://github.com/JensBaumannDev/Join) – Kanban Task Management *(team of 4)*
-A Kanban-based web app for team organisation with authentication, drag-and-drop board, contacts and a summary dashboard.
+### 💬 [DABubble](https://github.com/JensBaumannDev/DABubble) - Real-Time Team Chat (team of 2)
+A Slack-like team chat with channels, direct messages and threads that update in real time.
 
 `Angular` `TypeScript` `SCSS` `Supabase`
-&nbsp;·&nbsp; [**Live Demo**](https://join.jensbaumann.com/) · [Code](https://github.com/JensBaumannDev/Join)
+
+[**Live Demo**](https://dabubble.jensbaumann.com/) | [Code](https://github.com/JensBaumannDev/DABubble)
+
+### ✅ [Join](https://github.com/JensBaumannDev/Join) - Kanban Task Management (team of 4)
+A Kanban web app for organising team work, with login, a drag-and-drop board, contacts and a summary dashboard.
+
+`Angular` `TypeScript` `SCSS` `Supabase`
+
+[**Live Demo**](https://join.jensbaumann.com/) | [Code](https://github.com/JensBaumannDev/Join)
 
 ---
 
 ## More Projects
 
-| Project | Description | Stack | Links |
+| Project | What it is | Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **Quizly** | Django REST API with JWT-based authentication for a quiz application | Python · Django REST | [Code](https://github.com/JensBaumannDev/Quizly) |
-| **El Pollo Loco** | Jump-and-run game with its own game loop, sound and collision detection | HTML · CSS · JavaScript | [Live](https://el-pollo-loco.jensbaumann.com/) · [Code](https://github.com/JensBaumannDev/El-Pollo-Loco) |
-| **Pokédex** | Multilingual Pokédex with live data from the PokéAPI and a detail dialog | HTML · CSS · JavaScript · Vite | [Live](https://pokedex.jensbaumann.com/) · [Code](https://github.com/JensBaumannDev/Pokedex) |
-
----
-
-## What Colleagues Say
-
-> *"I can only recommend Jens – a strong fullstack developer who delivers clean code and always finds good solutions."*
-> — André Funk, Fullstack Developer
-
-> *"A committed developer with a feel for modern design and clean implementation. He takes responsibility and is always helpful in the team."*
-> — Julia Keller, Fullstack Developer
+| **Quizly** | Django REST API with JWT authentication for a quiz app | Python, Django REST | [Code](https://github.com/JensBaumannDev/Quizly) |
+| **El Pollo Loco** | A jump-and-run game with its own game loop, sound and collision detection | HTML, CSS, JavaScript | [Live](https://el-pollo-loco.jensbaumann.com/) \| [Code](https://github.com/JensBaumannDev/El-Pollo-Loco) |
+| **Pokédex** | A multilingual Pokédex with live data from the PokéAPI | HTML, CSS, JavaScript, Vite | [Live](https://pokedex.jensbaumann.com/) \| [Code](https://github.com/JensBaumannDev/Pokedex) |
 
 ---
 
 <div align="center">
 
-**Let's build something together.**
+**Got a job, a project or just an idea? I'd love to hear from you.**
 
-[jensbaumann.com](https://jensbaumann.com/) · [LinkedIn](https://www.linkedin.com/in/jens-baumann-7a6866315/) · [info@jensbaumann.com](mailto:info@jensbaumann.com)
+[jensbaumann.com](https://jensbaumann.com/) | [LinkedIn](https://www.linkedin.com/in/jens-baumann-7a6866315/) | [info@jensbaumann.com](mailto:info@jensbaumann.com)
 
 </div>
