@@ -1,13 +1,14 @@
 <div align="center">
 
-# Hi, I'm Jens 👋
+# Hi, I'm Jens
 
 ### Fullstack Developer | Python | Django | Angular | TypeScript
 
-📍 Emden, Germany | Open to roles in East Frisia or remote | **Available from November 2026**
+Emden, Germany | Open to roles in East Frisia or remote | **Available now!**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jensbaumann.com-2E3EDF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jensbaumann.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jens%20Baumann-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jens-baumann-7a6866315/)
+[![Malt](https://img.shields.io/badge/Malt-jensbaumann-FC5757?style=for-the-badge)](https://www.malt.de/profile/jensbaumann)
 [![Email](https://img.shields.io/badge/Email-info%40jensbaumann.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@jensbaumann.com)
 
 </div>
@@ -69,35 +70,35 @@ When I'm not coding, I make music, play strategy games, spend time with my famil
 
 ## Projects I'm Proud Of
 
-### 🎬 [Videoflix](https://github.com/JensBaumannDev/Videoflix) - Video Streaming Backend
+### [Videoflix](https://github.com/JensBaumannDev/Videoflix) - Video Streaming Backend
 My biggest backend project so far: a Netflix-style streaming platform. Users register, activate their account by email and log in with JWT stored in HttpOnly cookies. When I upload a video, the backend creates a thumbnail and converts it to HLS in 480p, 720p and 1080p with FFmpeg in the background. The video list is cached in Redis and everything runs in Docker. I built it test-first and ended up with 100 % test coverage.
 
 `Python` `Django REST` `PostgreSQL` `Redis` `Django RQ` `FFmpeg` `Docker`
 
 [**Live Demo**](https://videoflix.jensbaumann.com/) | [Code](https://github.com/JensBaumannDev/Videoflix)
 
-### 🛒 [Coderr](https://github.com/JensBaumannDev/Coderr_Backend) - Freelancer Marketplace API
+### [Coderr](https://github.com/JensBaumannDev/Coderr_Backend) - Freelancer Marketplace API
 A Django backend for a marketplace of digital services, with customer and business profiles, offers with different packages, orders and reviews.
 
 `Python` `Django REST` `SQLite`
 
 [**Live Demo**](https://coderr.jensbaumann.com/) | [Code](https://github.com/JensBaumannDev/Coderr_Backend)
 
-### 📋 [KanMind](https://github.com/JensBaumannDev/KanMind_Backend) - Kanban Board API
+### [KanMind](https://github.com/JensBaumannDev/KanMind_Backend) - Kanban Board API
 A Django backend for Kanban boards with tasks, assignments, comments and reviews.
 
 `Python` `Django REST` `SQLite`
 
 [**Live Demo**](https://kanmind.jensbaumann.com/) | [Code](https://github.com/JensBaumannDev/KanMind_Backend)
 
-### 💬 [DABubble](https://github.com/JensBaumannDev/DABubble) - Real-Time Team Chat (team of 2)
+### [DABubble](https://github.com/JensBaumannDev/DABubble) - Real-Time Team Chat (team of 2)
 A Slack-like team chat with channels, direct messages and threads that update in real time.
 
 `Angular` `TypeScript` `SCSS` `Supabase`
 
 [**Live Demo**](https://dabubble.jensbaumann.com/) | [Code](https://github.com/JensBaumannDev/DABubble)
 
-### ✅ [Join](https://github.com/JensBaumannDev/Join) - Kanban Task Management (team of 4)
+### [Join](https://github.com/JensBaumannDev/Join) - Kanban Task Management (team of 4)
 A Kanban web app for organising team work, with login, a drag-and-drop board, contacts and a summary dashboard.
 
 `Angular` `TypeScript` `SCSS` `Supabase`
@@ -120,6 +121,6 @@ A Kanban web app for organising team work, with login, a drag-and-drop board, co
 
 **Got a job, a project or just an idea? I'd love to hear from you.**
 
-[jensbaumann.com](https://jensbaumann.com/) | [LinkedIn](https://www.linkedin.com/in/jens-baumann-7a6866315/) | [info@jensbaumann.com](mailto:info@jensbaumann.com)
+[jensbaumann.com](https://jensbaumann.com/) | [LinkedIn](https://www.linkedin.com/in/jens-baumann-7a6866315/) | [Malt](https://www.malt.de/profile/jensbaumann) | [info@jensbaumann.com](mailto:info@jensbaumann.com)
 
 </div>
