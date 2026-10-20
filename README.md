@@ -77,11 +77,7 @@ My biggest backend project so far: a Netflix-style streaming platform. Users reg
 
 [**Live Demo**](https://videoflix.jensbaumann.com/) | [Code](https://github.com/JensBaumannDev/Videoflix)
 
-<br>
-
 ---
-
-<br>
 
 ### [Coderr](https://github.com/JensBaumannDev/Coderr_Backend) - Freelancer Marketplace API
 A Django backend for a marketplace of digital services, with customer and business profiles, offers with different packages, orders and reviews.
@@ -90,11 +86,7 @@ A Django backend for a marketplace of digital services, with customer and busine
 
 [**Live Demo**](https://coderr.jensbaumann.com/) | [Code](https://github.com/JensBaumannDev/Coderr_Backend)
 
-<br>
-
 ---
-
-<br>
 
 ### [KanMind](https://github.com/JensBaumannDev/KanMind_Backend) - Kanban Board API
 A Django backend for Kanban boards with tasks, assignments, comments and reviews.
@@ -103,11 +95,7 @@ A Django backend for Kanban boards with tasks, assignments, comments and reviews
 
 [**Live Demo**](https://kanmind.jensbaumann.com/) | [Code](https://github.com/JensBaumannDev/KanMind_Backend)
 
-<br>
-
 ---
-
-<br>
 
 ### [DABubble](https://github.com/JensBaumannDev/DABubble) - Real-Time Team Chat (team of 2)
 A Slack-like team chat with channels, direct messages and threads that update in real time.
@@ -116,11 +104,7 @@ A Slack-like team chat with channels, direct messages and threads that update in
 
 [**Live Demo**](https://dabubble.jensbaumann.com/) | [Code](https://github.com/JensBaumannDev/DABubble)
 
-<br>
-
 ---
-
-<br>
 
 ### [Join](https://github.com/JensBaumannDev/Join) - Kanban Task Management (team of 4)
 A Kanban web app for organising team work, with login, a drag-and-drop board, contacts and a summary dashboard.
