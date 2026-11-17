@@ -1,17 +1,13 @@
-<div align="center">
+<p align="center">
+  <img src="assets/banner.svg" alt="Hi, I'm Jens. Fullstack Developer from Emden, Germany. Available now. Open to roles in East Frisia or remote." width="100%">
+</p>
 
-# Hi, I'm Jens
-
-### Fullstack Developer | Python | Django | Angular | TypeScript
-
-Emden, Germany | Open to roles in East Frisia or remote | **Available now!**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-jensbaumann.com-2E3EDF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jensbaumann.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jens%20Baumann-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jens-baumann-7a6866315/)
-[![Malt](https://img.shields.io/badge/Malt-jensbaumann-FC5757?style=for-the-badge)](https://www.malt.de/profile/jensbaumann)
-[![Email](https://img.shields.io/badge/Email-info%40jensbaumann.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@jensbaumann.com)
-
-</div>
+<p align="center">
+  <a href="https://jensbaumann.com/"><img src="assets/contact-portfolio.svg" alt="Portfolio: jensbaumann.com"></a>
+  <a href="https://www.linkedin.com/in/jens-baumann-7a6866315/"><img src="assets/contact-linkedin.svg" alt="LinkedIn"></a>
+  <a href="https://www.malt.de/profile/jensbaumann"><img src="assets/contact-malt.svg" alt="Malt"></a>
+  <a href="mailto:info@jensbaumann.com"><img src="assets/contact-email.svg" alt="Email: info@jensbaumann.com"></a>
+</p>
 
 ---
 
@@ -26,8 +22,7 @@ What I work with:
 - **Backend:** REST APIs with Python, Django and Django REST Framework, including authentication, background jobs and Docker
 - **Frontend:** responsive apps with Angular, TypeScript and SCSS
 - **How I work:** test-driven, clean code, documentation that actually helps the next person
-- **AI:** I use AI tools for research, debugging and refactoring, but I check every suggestion against the docs and test it in code before it goes anywhere
-- **Learning right now:** API integrations and AI-assisted processing of video content
+- **AI:** I use AI tools for research and debugging, and I check every suggestion against the docs and tests before I use it
 
 When I'm not coding, I make music, play strategy games, spend time with my family and go for walks with our dog Balu.
 
@@ -37,91 +32,33 @@ When I'm not coding, I make music, play strategy games, spend time with my famil
 
 **Backend**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django%20REST-A30000?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+<img src="assets/backend.svg" alt="Python, Django, Django REST, PostgreSQL, Redis, SQLite, Docker, FFmpeg">
 
 **Frontend**
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<img src="assets/frontend.svg" alt="Angular, TypeScript, JavaScript, HTML5, CSS, SCSS, Supabase">
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<img src="assets/tools.svg" alt="Git, GitHub, Linux, Nginx, VS Code, Vite, Figma">
 
 ---
 
 ## Projects I'm Proud Of
 
-### [Videoflix](https://github.com/JensBaumannDev/Videoflix) - Video Streaming Backend
-My biggest backend project so far: a Netflix-style streaming platform. Users register, activate their account by email and log in with JWT stored in HttpOnly cookies. When I upload a video, the backend creates a thumbnail and converts it to HLS in 480p, 720p and 1080p with FFmpeg in the background. The video list is cached in Redis and everything runs in Docker. I built it test-first and ended up with 100 % test coverage.
+<p><a href="https://snipatlas.jensbaumann.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-snipatlas-dark.svg"><img src="assets/card-snipatlas-light.svg" width="100%" alt="SnipAtlas: Reference for junior developers with commands, guides, error messages and a glossary. Angular with SSR, Django REST with login and progress."></picture></a><br><a href="https://snipatlas.jensbaumann.com/"><img src="assets/link-live.svg" width="25%" alt="SnipAtlas live demo"></a><a href="https://github.com/JensBaumannDev/SnipAtlas"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-code-dark.svg"><img src="assets/link-code-light.svg" width="25%" alt="SnipAtlas code"></picture></a></p>
 
-`Python` `Django REST` `PostgreSQL` `Redis` `Django RQ` `FFmpeg` `Docker`
+<p><a href="https://videoflix.jensbaumann.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-videoflix-dark.svg"><img src="assets/card-videoflix-light.svg" width="100%" alt="Videoflix: Netflix-style streaming backend. Uploads are converted to HLS in three resolutions in the background. Built test-first with 100 % coverage."></picture></a><br><a href="https://videoflix.jensbaumann.com/"><img src="assets/link-live.svg" width="25%" alt="Videoflix live demo"></a><a href="https://github.com/JensBaumannDev/Videoflix"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-code-dark.svg"><img src="assets/link-code-light.svg" width="25%" alt="Videoflix code"></picture></a></p>
 
-[**Live Demo**](https://videoflix.jensbaumann.com/) | [Code](https://github.com/JensBaumannDev/Videoflix)
+<p><a href="https://coderr.jensbaumann.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-coderr-dark.svg"><img src="assets/card-coderr-light.svg" width="50%" alt="Coderr: Marketplace API for digital services with offers, orders and reviews."></picture></a><a href="https://kanmind.jensbaumann.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-kanmind-dark.svg"><img src="assets/card-kanmind-light.svg" width="50%" alt="KanMind: Kanban board API with tasks, comments and reviews."></picture></a><br><a href="https://coderr.jensbaumann.com/"><img src="assets/link-live.svg" width="25%" alt="Coderr live demo"></a><a href="https://github.com/JensBaumannDev/Coderr_Backend"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-code-dark.svg"><img src="assets/link-code-light.svg" width="25%" alt="Coderr code"></picture></a><a href="https://kanmind.jensbaumann.com/"><img src="assets/link-live.svg" width="25%" alt="KanMind live demo"></a><a href="https://github.com/JensBaumannDev/KanMind_Backend"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-code-dark.svg"><img src="assets/link-code-light.svg" width="25%" alt="KanMind code"></picture></a></p>
 
----
-
-### [Coderr](https://github.com/JensBaumannDev/Coderr_Backend) - Freelancer Marketplace API
-A Django backend for a marketplace of digital services, with customer and business profiles, offers with different packages, orders and reviews.
-
-`Python` `Django REST` `SQLite`
-
-[**Live Demo**](https://coderr.jensbaumann.com/) | [Code](https://github.com/JensBaumannDev/Coderr_Backend)
-
----
-
-### [KanMind](https://github.com/JensBaumannDev/KanMind_Backend) - Kanban Board API
-A Django backend for Kanban boards with tasks, assignments, comments and reviews.
-
-`Python` `Django REST` `SQLite`
-
-[**Live Demo**](https://kanmind.jensbaumann.com/) | [Code](https://github.com/JensBaumannDev/KanMind_Backend)
-
----
-
-### [DABubble](https://github.com/JensBaumannDev/DABubble) - Real-Time Team Chat (team of 2)
-A Slack-like team chat with channels, direct messages and threads that update in real time.
-
-`Angular` `TypeScript` `SCSS` `Supabase`
-
-[**Live Demo**](https://dabubble.jensbaumann.com/) | [Code](https://github.com/JensBaumannDev/DABubble)
-
----
-
-### [Join](https://github.com/JensBaumannDev/Join) - Kanban Task Management (team of 4)
-A Kanban web app for organising team work, with login, a drag-and-drop board, contacts and a summary dashboard.
-
-`Angular` `TypeScript` `SCSS` `Supabase`
-
-[**Live Demo**](https://join.jensbaumann.com/) | [Code](https://github.com/JensBaumannDev/Join)
-
----
+<p><a href="https://dabubble.jensbaumann.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-dabubble-dark.svg"><img src="assets/card-dabubble-light.svg" width="50%" alt="DABubble: Real-time team chat with channels and threads. Team of 2."></picture></a><a href="https://join.jensbaumann.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-join-dark.svg"><img src="assets/card-join-light.svg" width="50%" alt="Join: Kanban task management with drag and drop. Team of 4."></picture></a><br><a href="https://dabubble.jensbaumann.com/"><img src="assets/link-live.svg" width="25%" alt="DABubble live demo"></a><a href="https://github.com/JensBaumannDev/DABubble"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-code-dark.svg"><img src="assets/link-code-light.svg" width="25%" alt="DABubble code"></picture></a><a href="https://join.jensbaumann.com/"><img src="assets/link-live.svg" width="25%" alt="Join live demo"></a><a href="https://github.com/JensBaumannDev/Join"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-code-dark.svg"><img src="assets/link-code-light.svg" width="25%" alt="Join code"></picture></a></p>
 
 ## More Projects
 
-| Project | What it is | Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **Quizly** | Django REST API with JWT authentication for a quiz app | Python, Django REST | [Code](https://github.com/JensBaumannDev/Quizly) |
-| **El Pollo Loco** | A jump-and-run game with its own game loop, sound and collision detection | HTML, CSS, JavaScript | [Live](https://el-pollo-loco.jensbaumann.com/) \| [Code](https://github.com/JensBaumannDev/El-Pollo-Loco) |
-| **Pokédex** | A multilingual Pokédex with live data from the PokéAPI | HTML, CSS, JavaScript, Vite | [Live](https://pokedex.jensbaumann.com/) \| [Code](https://github.com/JensBaumannDev/Pokedex) |
+- **Quizly**: Django REST API with JWT authentication for a quiz app ([Code](https://github.com/JensBaumannDev/Quizly))
+- **El Pollo Loco**: a jump-and-run game with its own game loop, sound and collision detection ([Live](https://el-pollo-loco.jensbaumann.com/) | [Code](https://github.com/JensBaumannDev/El-Pollo-Loco))
+- **Pokédex**: a multilingual Pokédex with live data from the PokéAPI ([Live](https://pokedex.jensbaumann.com/) | [Code](https://github.com/JensBaumannDev/Pokedex))
 
 ---
 
